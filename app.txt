@@ -5,7 +5,7 @@ SISTEMA DE GESTIÓN - APP
 Estado de Funcionalidades:
 
 [X] Login ✅ COMPLETADO
-[X] Perfil de Usuario ✅ COMPLETADO
+[X] Perfil de Usuario ❌ PROGRESO
 [ ] Dashboard
 [ ] Configuración
 
