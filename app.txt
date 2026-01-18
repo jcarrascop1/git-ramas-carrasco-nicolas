@@ -1,0 +1,15 @@
+=================================
+SISTEMA DE GESTIÓN - APP
+=================================
+
+Estado de Funcionalidades:
+
+[X] Login ✅ COMPLETADO
+[ ] Perfil de Usuario
+[ ] Dashboard
+[ ] Configuración
+
+=================================
+Versión: 1.0.0
+Última actualización: 17/01/2026
+=================================
