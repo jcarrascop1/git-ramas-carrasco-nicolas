@@ -40,7 +40,7 @@ Módulo de gestión de perfiles de usuario implementado.
 - Configuración de privacidad
 
 ### Estado
-✅ Implementado en rama feature/perfil-tunombre
+✅ Implementado en rama feature/perfil-NicolasCarrasco
 
 ## Autor
 Joel Nicolas Carrasco Pilco
